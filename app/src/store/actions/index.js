@@ -1,1 +1,1 @@
-export { TOGGLE_COMPLETE } from './todoActions';
+export { TOGGLE_COMPLETE, toggleComplete } from './todoActions';
